@@ -1,0 +1,2 @@
+前台 http://musicclub1.duapp.com/PHP/mvxweb/index.php
+后台http://musicclub1.duapp.com/PHP/mvxweb/index.php?m=admin
